@@ -23,7 +23,7 @@ public class SumsubSetProblem {
 
     public static void isSumDp(int[] s,int sum){
         boolean[][] b = new boolean[sum+1][s.length];
-        for(int i = 0 ;i<=sum;i++){
+        for(int i = 1 ;i<=sum;i++){
             for(int j =1;j<s.length-1;j++){
                 if(i ==0 && j >= 0){
                     b[i][j] = true;
