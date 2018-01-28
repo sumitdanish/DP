@@ -1,4 +1,4 @@
-package com.dynamic.divideAndConqure;
+package com.dynamic.divideAndConqure.dp;
 
 import org.omg.CORBA.INTERNAL;
 

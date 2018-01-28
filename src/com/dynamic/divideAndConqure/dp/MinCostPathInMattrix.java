@@ -1,4 +1,4 @@
-package com.dynamic.divideAndConqure;
+package com.dynamic.divideAndConqure.dp;
 
 public class MinCostPathInMattrix {
     public static void main(String[] args) {

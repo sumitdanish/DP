@@ -1,4 +1,4 @@
-package com.dynamic.divideAndConqure;
+package com.dynamic.divideAndConqure.dp;
 
 public class LIS {
     static int x = Integer.MIN_VALUE;

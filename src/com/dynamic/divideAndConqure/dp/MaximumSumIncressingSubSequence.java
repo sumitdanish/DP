@@ -1,4 +1,4 @@
-package com.dynamic.divideAndConqure;
+package com.dynamic.divideAndConqure.dp;
 
 public class MaximumSumIncressingSubSequence {
     public static void main(String[] args) {
