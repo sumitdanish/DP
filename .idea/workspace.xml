@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b15461de-480d-4c0d-b5ad-7291eaf27b04" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/dynamic/divideAndConqure/dp/MinHeap.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/dija.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/dynamic/divideAndConqure/Graph/DijakstraAlgo.java" afterPath="$PROJECT_DIR$/src/com/dynamic/divideAndConqure/Graph/DijakstraAlgo.java" />
     </list>
@@ -30,48 +30,37 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DijakstraAlgo.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="DijakstraAlgo.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/dynamic/divideAndConqure/Graph/DijakstraAlgo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+            <state relative-caret-position="133">
+              <caret line="14" column="22" lean-forward="true" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
               <folding>
-                <element signature="e#150#151#0" expanded="true" />
-                <element signature="e#203#204#0" expanded="true" />
-                <element signature="e#321#322#0" expanded="true" />
-                <element signature="e#353#354#0" expanded="true" />
-                <element signature="e#382#383#0" expanded="true" />
-                <element signature="e#409#410#0" expanded="true" />
-                <element signature="e#448#449#0" expanded="true" />
-                <element signature="e#480#481#0" expanded="true" />
-                <element signature="e#508#509#0" expanded="true" />
-                <element signature="e#535#536#0" expanded="true" />
-                <element signature="e#572#573#0" expanded="true" />
-                <element signature="e#604#605#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MinHeap.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="dija.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dija.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="5" lean-forward="false" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MinHeap.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/dynamic/divideAndConqure/dp/MinHeap.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
-              <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+              <caret line="8" column="9" lean-forward="false" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
               <folding>
                 <element signature="e#581#582#0" expanded="true" />
                 <element signature="e#626#627#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Graph3TopologicalSorting.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/dynamic/divideAndConqure/Graph/Graph3TopologicalSorting.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -175,8 +164,9 @@
         <option value="$PROJECT_DIR$/src/com/dynamic/divideAndConqure/Graph/GNode1.java" />
         <option value="$PROJECT_DIR$/dis.txt" />
         <option value="$PROJECT_DIR$/.idea/workspace.xml" />
-        <option value="$PROJECT_DIR$/src/com/dynamic/divideAndConqure/Graph/DijakstraAlgo.java" />
         <option value="$PROJECT_DIR$/src/com/dynamic/divideAndConqure/dp/MinHeap.java" />
+        <option value="$PROJECT_DIR$/dija.txt" />
+        <option value="$PROJECT_DIR$/src/com/dynamic/divideAndConqure/Graph/DijakstraAlgo.java" />
       </list>
     </option>
   </component>
@@ -230,15 +220,7 @@
               <item name="Programm" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="divideAndConqure" type="462c0819:PsiDirectoryNode" />
-              <item name="dp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Programm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Programm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="divideAndConqure" type="462c0819:PsiDirectoryNode" />
-              <item name="dp" type="462c0819:PsiDirectoryNode" />
-              <item name="MinHeap.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+              <item name="Graph" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Programm" type="b2602c69:ProjectViewProjectNode" />
@@ -246,6 +228,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="divideAndConqure" type="462c0819:PsiDirectoryNode" />
               <item name="Graph" type="462c0819:PsiDirectoryNode" />
+              <item name="DijakstraAlgo.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
           </expand>
           <select />
@@ -280,7 +263,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MinHeap">
+  <component name="RunManager" selected="Application.DijakstraAlgo">
+    <configuration name="DijakstraAlgo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.dynamic.divideAndConqure.Graph.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="com.dynamic.divideAndConqure.Graph.DijakstraAlgo" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Programm" />
+      <envs />
+    </configuration>
     <configuration name="DisjointSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -346,25 +348,6 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="com.dynamic.divideAndConqure.dp.MinimumInsertion" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Programm" />
-      <envs />
-    </configuration>
-    <configuration name="NumberOfWaysInMaze" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.dynamic.divideAndConqure.dp.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.dynamic.divideAndConqure.dp.NumberOfWaysInMaze" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -458,19 +441,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.NumberOfWaysInMaze" />
-      <item index="1" class="java.lang.String" itemvalue="Application.MaxNumberOfChocolates" />
-      <item index="2" class="java.lang.String" itemvalue="Application.MinimumInsertion" />
-      <item index="3" class="java.lang.String" itemvalue="Application.DisjointSet" />
-      <item index="4" class="java.lang.String" itemvalue="Application.MinHeap" />
+      <item index="0" class="java.lang.String" itemvalue="Application.MaxNumberOfChocolates" />
+      <item index="1" class="java.lang.String" itemvalue="Application.MinimumInsertion" />
+      <item index="2" class="java.lang.String" itemvalue="Application.DisjointSet" />
+      <item index="3" class="java.lang.String" itemvalue="Application.MinHeap" />
+      <item index="4" class="java.lang.String" itemvalue="Application.DijakstraAlgo" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.MinHeap" />
-        <item index="1" class="java.lang.String" itemvalue="Application.DisjointSet" />
-        <item index="2" class="java.lang.String" itemvalue="Application.MinimumInsertion" />
-        <item index="3" class="java.lang.String" itemvalue="Application.MaxNumberOfChocolates" />
-        <item index="4" class="java.lang.String" itemvalue="Application.NumberOfWaysInMaze" />
+        <item index="0" class="java.lang.String" itemvalue="Application.DijakstraAlgo" />
+        <item index="1" class="java.lang.String" itemvalue="Application.MinHeap" />
+        <item index="2" class="java.lang.String" itemvalue="Application.DisjointSet" />
+        <item index="3" class="java.lang.String" itemvalue="Application.MinimumInsertion" />
+        <item index="4" class="java.lang.String" itemvalue="Application.MaxNumberOfChocolates" />
       </list>
     </recent_temporary>
   </component>
@@ -496,7 +479,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11898000" />
+    <option name="totallyTimeSpent" value="13922000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -510,7 +493,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5034388" sideWeight="0.5177706" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5034388" sideWeight="0.4822294" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5034388" sideWeight="0.4822294" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32599726" sideWeight="0.4806139" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -594,24 +577,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/dynamic/divideAndConqure/dp/LISInChainOfPair.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="6" column="2" lean-forward="false" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#1734#1735#0" expanded="false" />
-            <element signature="e#1758#1759#0" expanded="false" />
-            <element signature="e#1789#1790#0" expanded="false" />
-            <element signature="e#1815#1816#0" expanded="false" />
-            <element signature="e#1840#1841#0" expanded="false" />
-            <element signature="e#1864#1865#0" expanded="false" />
-            <element signature="e#1895#1896#0" expanded="false" />
-            <element signature="e#1921#1922#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/c.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -1034,29 +999,8 @@
         <state relative-caret-position="-380">
           <caret line="120" column="11" lean-forward="false" selection-start-line="120" selection-start-column="11" selection-end-line="120" selection-end-column="11" />
           <folding>
-            <element signature="e#4277#4278#0" expanded="true" />
-            <element signature="e#4329#4330#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/dynamic/divideAndConqure/Graph/DijakstraAlgo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding>
-            <element signature="e#150#151#0" expanded="true" />
-            <element signature="e#203#204#0" expanded="true" />
-            <element signature="e#321#322#0" expanded="true" />
-            <element signature="e#353#354#0" expanded="true" />
-            <element signature="e#382#383#0" expanded="true" />
-            <element signature="e#409#410#0" expanded="true" />
-            <element signature="e#448#449#0" expanded="true" />
-            <element signature="e#480#481#0" expanded="true" />
-            <element signature="e#508#509#0" expanded="true" />
-            <element signature="e#535#536#0" expanded="true" />
-            <element signature="e#572#573#0" expanded="true" />
-            <element signature="e#604#605#0" expanded="true" />
+            <element signature="e#4277#4278#0" expanded="false" />
+            <element signature="e#4329#4330#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1064,10 +1008,28 @@
     <entry file="file://$PROJECT_DIR$/src/com/dynamic/divideAndConqure/dp/MinHeap.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
-          <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+          <caret line="8" column="9" lean-forward="false" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
           <folding>
             <element signature="e#581#582#0" expanded="true" />
             <element signature="e#626#627#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dija.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="5" lean-forward="false" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dynamic/divideAndConqure/Graph/DijakstraAlgo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="14" column="22" lean-forward="true" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
